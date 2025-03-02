@@ -1,4 +1,4 @@
-# Duck Behavior Simulation
+# Duck Behavior Simulation 🦆
 
 ## Overview
 - This project demonstrates the behavior of different types of ducks using the **Strategy Pattern**.
